@@ -1,4 +1,4 @@
-# Norne Net-Zero Forecasting Project
+# Net-Zero EAGE 2024 Hackathon
 
 ## Project Summary
 
